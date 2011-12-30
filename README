@@ -1,4 +1,4 @@
-time_commits.rb is a ruby script to display people committing.
+time_commits.rb is a ruby script to display people commit times.
 
 While committing some patches around 2am on a project I'm working on,
 I was wondering when other people actually commit their patches. So I
